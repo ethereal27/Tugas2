@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bad_script</item>
+        <item>@font/bilbo</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/clicker_script</item>
+        <item>@font/dawning_of_a_new_day</item>
+        <item>@font/delius</item>
+        <item>@font/la_belle_aurore</item>
+        <item>@font/mr_de_haviland</item>
+        <item>@font/pompiere</item>
+        <item>@font/princess_sofia</item>
+    </array>
+</resources>
